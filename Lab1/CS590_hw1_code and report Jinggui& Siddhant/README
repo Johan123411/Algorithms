@@ -1,0 +1,6 @@
+In main.cc line:89 to line:92
+comment out the unused sort function and choose the one you'd like to test
+
+  //insertion_sort(input_array, n, 0, m-1);
+  //insertion_sort_im(input_array, n, 0, m-1);
+  merge_sort(input_array, n, 0, m-1);
